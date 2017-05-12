@@ -1,0 +1,14 @@
+package com.project;
+
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class AppTest {
+
+	@Test
+	public void test() {
+		Asserttrue(addiere(4, 5), 9); 
+	}
+
+}
